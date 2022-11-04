@@ -8,3 +8,5 @@
                           [8,11,12,16,21,22]
 ### - Big-O gösterimini yazınız.  
 - O(nlogn)
+- 
+- [Patika.dev](https://www.patika.dev/tr)
